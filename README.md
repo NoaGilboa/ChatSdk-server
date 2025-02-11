@@ -112,3 +112,11 @@ mvn test
 
 ## License
 Copyright (c) 2025 Noa Gilboa | Yarden Cherry
+
+## Video demonstration
+
+
+https://github.com/user-attachments/assets/257d2a3b-c261-4aae-a2ee-0da95e78043d
+
+
+
